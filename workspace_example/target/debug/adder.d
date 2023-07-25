@@ -1,0 +1,1 @@
+/Users/shin/Desktop/rust_tutorial/workspace_example/target/debug/adder: /Users/shin/Desktop/rust_tutorial/workspace_example/add-one/src/lib.rs /Users/shin/Desktop/rust_tutorial/workspace_example/adder/src/main.rs
